@@ -145,3 +145,8 @@ temp/
 # VS Code
 .vscode
 *.txt
+# Shell redirection artifacts
+=[0-9]*
+>[0-9]*
+*.tmp
+*.log
